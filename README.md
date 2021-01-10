@@ -1,2 +1,2 @@
 # Tools
- Ferramentas para desenvolvimento
+ Ferramentas para aprendizado e desenvolvimento
