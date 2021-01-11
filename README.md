@@ -1,4 +1,3 @@
 # Tools
- Ferramentas para aprendizado e desenvolvimento.
- 
- Primeiro ajuste online no editor.
+ Ferramentas para otimização do trabalho.
+ Serão disponibilizadas on-line ao público gratuitamente.
