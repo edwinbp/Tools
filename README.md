@@ -1,2 +1,4 @@
 # Tools
- Ferramentas para aprendizado e desenvolvimento
+ Ferramentas para aprendizado e desenvolvimento.
+ 
+ Primeiro ajuste online no editor.
